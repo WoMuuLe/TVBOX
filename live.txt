@@ -8,10 +8,10 @@ CCTV-3综艺,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1
 CCTV-3综艺,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227623/index.m3u8
 CCTV-4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227549/index.m3u8
 CCTV-4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227658/index.m3u8
-CCTV-4中文国际欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
-CCTV-4中文国际美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
-CCTV-4中文国际欧洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8
-CCTV-4中文国际美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8
+CCTV-4中文国际 欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+CCTV-4中文国际 美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+CCTV-4中文国际 欧洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8
+CCTV-4中文国际 美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8
 CCTV-5体育,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227661/index.m3u8
 CCTV-5体育,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227537/index.m3u8
 CCTV-5+体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227502/index.m3u8
@@ -40,9 +40,9 @@ CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/3221228127/index.m3u8
 CCTV-17农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227726/index.m3u8
 CCTV-17农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
-CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228228/index.m3u8
-CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/1/224/3221228228/index.m3u8
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221228165/index.m3u8
+CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228228/index.m3u8
+CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/1/224/3221228228/index.m3u8
+CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221228165/index.m3u8
 
 CCTV-1综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221229780/index.m3u8
 CCTV-2财经,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230372/index.m3u8
@@ -57,7 +57,7 @@ CCTV-9纪录,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230520/i
 CCTV-10科教,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230572/index.m3u8
 CCTV-13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230925/index.m3u8
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb08]/PLTV/1/224/3221230934/index.m3u8
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/PLTV/1/224/3221230960/index.m3u8
+CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/PLTV/1/224/3221230960/index.m3u8
 
 CCTV-1综合,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
