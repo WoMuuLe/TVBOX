@@ -145,18 +145,18 @@ CCTV-14少儿,http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
 CCTV-15音乐,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 
 CGTN,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN纪录,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN法语,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN俄语,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN西语,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN纪录,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221225745/index.m3u8
+CGTN纪录,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227084/index.m3u8
 CGTN法语,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227058/index.m3u8
 CGTN俄语,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227078/index.m3u8
 CGTN阿语,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227095/index.m3u8
 CGTN西语,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227098/index.m3u8
-CGTN纪录,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227084/index.m3u8
 
 CCTV电视指南,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV第一剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
