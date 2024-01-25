@@ -1,2 +1,3 @@
 CCTV4欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 CCTV-4美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+龙口综合,http://47.94.13.7/api/live/v1/sources?Pid=local-longkouzonghe
