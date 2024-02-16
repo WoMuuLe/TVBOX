@@ -33,7 +33,7 @@ CCTV-12社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com
 CCTV-13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228121/index.m3u8
 CCTV-13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/1/224/3221228224/index.m3u8
 CCTV-14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227656/index.m3u8
-CCTV-14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8
+CCTV-14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227723/index.m3u8
 CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227538/index.m3u8
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228314/index.m3u8
@@ -51,7 +51,6 @@ CCTV-4中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/322123
 CCTV-5体育,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230611/index.m3u8
 CCTV-5+体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230397/index.m3u8
 CCTV-6电影,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230376/index.m3u8
-CCTV-7国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230524/index.m3u8
 CCTV-8电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230399/index.m3u8
 CCTV-9纪录,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230520/index.m3u8
 CCTV-10科教,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230572/index.m3u8
@@ -304,7 +303,6 @@ CCTV央视文化精品,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000
 山东频道,#genre#
 山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/1/224/3221227517/index.m3u8
 山东卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226209/index.m3u8
 山东卫视,http://221.2.146.228:8888/newlive/live/hls/20/live.m3u8
 
@@ -374,7 +372,7 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 
 卡酷少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8
 金鹰卡通,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8
-
+哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb
 优漫卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 嘉佳卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影发现之旅,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -408,11 +406,11 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227635/index.m3u8
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227674/index.m3u8
 中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227647/index.m3u8
-纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227711/index.m3u8
+纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227699/index.m3u8
 
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230538/index.m3u8
 中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230548/index.m3u8
-纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230603/index.m3u8
+纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/PLTV/1/224/3221230569/index.m3u8
 
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226230/index.m3u8
 纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226232/index.m3u8
@@ -423,7 +421,6 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226235/index.m3u8
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226236/index.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221225795/index.m3u8
-哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226213/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226227/index.m3u8
 置业频道,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226241/index.m3u8
 京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226242/index.m3u8
