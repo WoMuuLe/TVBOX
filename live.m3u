@@ -36,7 +36,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/32212275
 #EXTINF:-1 group-title="央视频道",CCTV-6电影
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227664/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7国防军事
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227690/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/1/224/3221227314/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7国防军事
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221225546/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧
@@ -58,7 +58,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/32212275
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227655/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228401/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/1/224/3221227637/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228121/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻
@@ -66,7 +66,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/1/224/32212282
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227656/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227723/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐
@@ -78,7 +78,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/32212281
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227726/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K超高清
@@ -99,8 +99,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230611/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230397/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230376/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230524/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230399/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9纪录
@@ -147,40 +145,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央视频道",CCTV-1综合
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001441/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3综艺
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001480/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001445/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9纪录
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10科教
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15音乐
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226231/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经
@@ -275,6 +239,8 @@ http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
 http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频道",CGTN纪录
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",CGTN俄语
@@ -283,10 +249,10 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002883/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",CGTN阿语
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央视频道",CGTN纪录
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN纪录
+http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227084/index.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227058/index.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN俄语
@@ -295,8 +261,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227078/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227095/index.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN西语
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227098/index.m3u8
-#EXTINF:-1 group-title="央视频道",CGTN纪录
-http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221227084/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
@@ -487,74 +451,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="卫视频道",康巴卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
-#EXTINF:-1 group-title="卫视频道",延边卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226222/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -674,8 +570,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/1/224/32212275
 #EXTINF:-1 group-title="山东频道",山东卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="山东频道",山东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
-#EXTINF:-1 group-title="山东频道",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="山东频道",山东卫视
 http://221.2.146.228:8888/newlive/live/hls/20/live.m3u8
@@ -745,30 +639,30 @@ http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000283/index.m3u8
 #EXTINF:-1 group-title="山东频道",烟台公共
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8
-#EXTINF:-1 group-title="数字频道",动作电影
+#EXTINF:-1 group-title="数字频道",CHC动作电影
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字频道",高清电影
+#EXTINF:-1 group-title="数字频道",CHC高清电影
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字频道",家庭影院
+#EXTINF:-1 group-title="数字频道",CHC家庭影院
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字频道",家庭影院
+#EXTINF:-1 group-title="数字频道",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="数字频道",高清电影
+#EXTINF:-1 group-title="数字频道",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="数字频道",动作电影
+#EXTINF:-1 group-title="数字频道",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="数字频道",家庭影院
+#EXTINF:-1 group-title="数字频道",CHC家庭影院
 http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="数字频道",动作电影
+#EXTINF:-1 group-title="数字频道",CHC动作电影
 http://221.2.36.34:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 group-title="数字频道",高清电影
+#EXTINF:-1 group-title="数字频道",CHC高清电影
 http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓电影
 http://39.134.65.164/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓动画
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓动画
 http://39.134.65.175/PLTV/88888888/224/3221225529/index.m3u8
 #EXTINF:-1 group-title="数字频道",求索纪录
@@ -787,28 +681,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusy
 #EXTINF:-1 group-title="数字频道",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="数字频道",纪实人文
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 group-title="数字频道",中国天气
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 group-title="数字频道",财富天下
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 group-title="数字频道",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 group-title="数字频道",茶频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-#EXTINF:-1 group-title="数字频道",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 group-title="数字频道",家庭理财
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
-#EXTINF:-1 group-title="数字频道",哈哈炫动
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 group-title="数字频道",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8
 #EXTINF:-1 group-title="数字频道",金鹰卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 group-title="数字频道",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001446/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8
+#EXTINF:-1 group-title="数字频道",哈哈炫动
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb
 #EXTINF:-1 group-title="数字频道",优漫卡通
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字频道",嘉佳卡通
@@ -841,6 +719,22 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字频道",茶频道
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="数字频道",中国交通
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8
+#EXTINF:-1 group-title="数字频道",河南文物宝库
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8
+#EXTINF:-1 group-title="数字频道",河南梨园
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8
+#EXTINF:-1 group-title="数字频道",河南武术世界
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8
+#EXTINF:-1 group-title="数字频道",书画
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8
+#EXTINF:-1 group-title="数字频道",中华特产
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000642/index.m3u8
+#EXTINF:-1 group-title="数字频道",优优宝贝
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000641/index.m3u8
+#EXTINF:-1 group-title="数字频道",车迷
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000645/index.m3u8
 #EXTINF:-1 group-title="数字频道",家庭理财
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227011/index.m3u8
 #EXTINF:-1 group-title="数字频道",中央新影发现之旅
@@ -856,13 +750,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/32212276
 #EXTINF:-1 group-title="数字频道",中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227647/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实科教
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227711/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227699/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230538/index.m3u8
 #EXTINF:-1 group-title="数字频道",中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230548/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实科教
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/PLTV/1/224/3221230603/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/PLTV/1/224/3221230569/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实科教
@@ -881,8 +775,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226235/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="数字频道",优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221225795/index.m3u8
-#EXTINF:-1 group-title="数字频道",哈哈炫动
-http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226213/index.m3u8
 #EXTINF:-1 group-title="数字频道",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226227/index.m3u8
 #EXTINF:-1 group-title="数字频道",置业频道
@@ -911,6 +803,26 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/1/224/3221225675
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/1/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/1/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="SITV频道",法治天地
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8
+#EXTINF:-1 group-title="SITV频道",精彩影视
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8
+#EXTINF:-1 group-title="SITV频道",乐游
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8
+#EXTINF:-1 group-title="SITV频道",金色学堂
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8
+#EXTINF:-1 group-title="SITV频道",生活时尚
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8
+#EXTINF:-1 group-title="SITV频道",魅力足球
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002021/index.m3u8
+#EXTINF:-1 group-title="SITV频道",都市剧场
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8
+#EXTINF:-1 group-title="SITV频道",游戏风云
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8
+#EXTINF:-1 group-title="SITV频道",东方财经
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8
+#EXTINF:-1 group-title="SITV频道",劲爆体育
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8
 #EXTINF:-1 group-title="SITV频道",游戏风云
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="SITV频道",金色学堂
@@ -923,28 +835,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002157/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="SITV频道",劲爆体育
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="SITV频道",动漫秀场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 group-title="SITV频道",游戏风云
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="SITV频道",法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="SITV频道",金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="SITV频道",欢笑剧场4K
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="SITV频道",第一财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 group-title="SITV频道",生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 group-title="SITV频道",乐游
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 group-title="SITV频道",都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="SITV频道",七彩戏剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="SITV频道",东方财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 group-title="SITV频道",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/1/224/3221226579/index.m3u8
 #EXTINF:-1 group-title="SITV频道",乐游
