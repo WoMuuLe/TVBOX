@@ -4,6 +4,8 @@ CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-4中文国际 欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+CCTV-4中文国际 美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -23,8 +25,6 @@ CCTV-1综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3
 CCTV-2财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3综艺,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
 CCTV-4中文国际,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-CCTV-4中文国际 欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
-CCTV-4中文国际 美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
 CCTV-5体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 CCTV-5+体育赛事,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 CCTV-6电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
